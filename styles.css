@@ -70,3 +70,53 @@ footer{
     display: flex;
     justify-content: end;
 }
+
+@media screen and (max-width:1400px){
+    .container1{
+        width: 100%;
+    }
+
+        .btn1{
+            justify-content: end;
+        }
+}
+
+@media screen and (max-width:1200px){
+    .container1 {
+        width: 100%;
+    }
+
+    .btn1{
+        justify-content: end;
+    }
+    
+}
+    
+
+
+@media screen and (max-width:768px){
+    .container1{
+        width: 100%; 
+}
+.btn1{
+    justify-content: end;
+}
+}
+
+@media screen and (max-width:600px){
+    .container1{
+        width: 100%; 
+}
+.btn1{
+    justify-content: end;
+}
+}
+
+@media  screen and (max-width:420px) {
+    .container1{
+        width: 100%; 
+}
+.btn1{
+    justify-content: end;
+}
+}
